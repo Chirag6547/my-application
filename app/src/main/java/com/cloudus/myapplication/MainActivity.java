@@ -8,6 +8,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     TextView txtWord;
     TextView txtWord1;
+    TextView txtWord2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
