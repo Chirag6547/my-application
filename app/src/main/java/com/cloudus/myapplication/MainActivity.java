@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     TextView txtWord;
     TextView txtWord1;
     TextView txtWord2;
+    TextView txtWord3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
